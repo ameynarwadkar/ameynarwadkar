@@ -17,9 +17,11 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+     <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-276DC3?&style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -30,10 +32,16 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Transformers-3776AB?style=for-the-badge&logo=hugging+face&logoColor=white">
+   <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+    <img src="https://img.shields.io/badge/Streamlit-FFFFFF?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
+
+   
+  
+
 </div>
     
-<br><br>
+<br>
     
 ## Socials:
 
