@@ -35,10 +35,6 @@
    <img src="https://img.shields.io/badge/Transformers-3776AB?style=for-the-badge&logo=hugging+face&logoColor=white">
    <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
     <img src="https://img.shields.io/badge/Streamlit-FFFFFF?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
-
-   
-  
-
 </div>
     
 <br>
@@ -48,3 +44,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmeyNarwadkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amey-narwadkar-474332231/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ameynarwadkar)
+
+## Statistics:
+<!--<a href="https://github.com/ameynarwadkar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ameynarwadkar&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=350px">    
+</a>-->
+<a href="https://github.com/ameynarwadkar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameynarwadkar&layout=compact&theme=radical&card_width=430px">    
+</a> 
