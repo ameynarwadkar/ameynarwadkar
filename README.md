@@ -49,6 +49,6 @@
 <!--<a href="https://github.com/ameynarwadkar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ameynarwadkar&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=350px">    
 </a>-->
-<a href="https://github.com/ameynarwadkar/github-readme-stats">
+<!--<a href="https://github.com/ameynarwadkar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameynarwadkar&layout=compact&theme=radical&card_width=430px">    
-</a> 
+</a> --
