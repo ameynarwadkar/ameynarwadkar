@@ -1,6 +1,6 @@
 ## Hi there 👋:
 
-- 🔭 I’m currently working on: Computer Vision and Deep Learning projects.
+- 🔭 I’m currently working on: GenAI, Deep Learning, MCP projects.
 
 - 🌱 I’m incredibly interested in research in Deep Learning and AI.
   
