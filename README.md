@@ -1,36 +1,238 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Amey%20Narwadkar&fontSize=70&desc=AI%20Engineer%20%7C%20Applied%20ML%20%7C%20NLP&descSize=25&fontAlignY=35&animation=twinkling" alt="Header" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🌊  HEADER                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=220&section=header&text=&fontSize=0" />
 
 <div align="center">
+
+  <!-- Typing animation -->
   <a href="https://github.com/ameynarwadkar">
-    <img src="https://github-readme-stats.vercel.app/api?username=ameynarwadkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Amey+%F0%9F%91%8B;AI+Engineer+%E2%80%A2+ML+Researcher" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/ameynarwadkar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameynarwadkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192" />
-  </a>
+  <br/>
+  
+
+  <br/>
+
+  
+
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="./assets/terminal-animation.svg" width="820" alt="AI Engineering Terminal" />
+</div>
 
-**M.S. Scientific Computing @ Universität Heidelberg**  
-**LLM Systems · Agentic Workflows · Efficient NLP · Applied ML**
+<br/>
 
-📍 Based in Heidelberg, Germany · Open to AI/ML roles · Remote friendly
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 👤  ABOUT                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ameynarwadkar.github.io-blue?style=flat-square)](https://ameynarwadkar.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amey%20Narwadkar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amey-narwadkar-474332231)
-[![Email](https://img.shields.io/badge/Email-amey.narwadkar1729%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:amey.narwadkar1729@gmail.com)
+<div align="center">
 
----
+  **`M.S. Scientific Computing · Universität Heidelberg`**
 
-I build machine learning systems that sit at the intersection of **mathematics, research, and engineering**.
+  <samp>LLM Systems · Agentic Workflows · Efficient NLP · Applied ML</samp>
 
-My current focus is on understanding how modern NLP and deep learning models behave under real-world constraints: noisy inputs, limited compute, inference latency, retrieval quality, and evaluation reliability. I enjoy working on systems where the goal is not only to make a model work, but to understand **why it works, when it fails, and how to make it more robust**.
+  <br/><br/>
 
-Currently building LLM prototypes as a Working Student at **NEC Laboratories Europe** while pursuing my Master's at **Universität Heidelberg**.
+  <!-- Social badges — custom styled -->
+  <a href="https://ameynarwadkar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-ameynarwadkar.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amey-narwadkar-474332231">
+    <img src="https://img.shields.io/badge/LinkedIn-Amey%20Narwadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:amey.narwadkar1729@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amey.narwadkar1729-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
 
----
+  <br/><br/>
+
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=for-the-badge&color=00d9ff&labelColor=0D1117&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📖  ABOUT ME                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
+
+```yaml
+name: Amey Narwadkar
+location: Heidelberg, Germany 🇩🇪
+education:
+  masters: Scientific Computing @ Universität Heidelberg
+  bachelors: Mathematics @ Fergusson College, Pune
+current_role: Working Student @ NEC Laboratories Europe
+focus_areas:
+  - LLM Systems & RAG Pipelines
+  - Efficient NLP & Transformer Inference
+  - Multi-Agent Orchestration
+  - Applied ML Research
+status: Open to AI/ML roles · Remote friendly 🌍
+```
+
+> *I build machine learning systems at the intersection of **mathematics, research, and engineering**. My focus is on understanding how models behave under real-world constraints — noisy inputs, limited compute, inference latency — and making them **robust, efficient, and actually useful**.*
+
+<br clear="both"/>
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️  TECH STACK                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> &nbsp;Tech Arsenal
+
+<div align="center">
+
+<!-- Row 1: Core -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+  <br/><sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+  <br/><sub><b>HuggingFace</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <br/><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="K8s" />
+  <br/><sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+  <br/><sub><b>GCP</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <br/><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br/><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Specialized stack badges -->
+<details>
+<summary><b>🧠 AI / ML / LLM Stack (click to expand)</b></summary>
+<br/>
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | `Python` · `SQL` · `R` · `JavaScript` · `Bash` |
+| **ML & DL** | `PyTorch` · `scikit-learn` · `HuggingFace Transformers` · `Sentence-Transformers` · `OpenCV` · `NumPy` · `pandas` · `ONNX Runtime` |
+| **LLM / RAG** | `LangChain` · `LangGraph` · `Google ADK` · `LlamaIndex` · `FAISS` · `Qdrant` · `ChromaDB` · `Pydantic` · `FlashRank` · `Ollama` |
+| **Infra & Tools** | `FastAPI` · `Docker` · `Kubernetes` · `Linux` · `Git` · `Streamlit` · `CUDA` · `Google Cloud` |
+
+</details>
+
+</div>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📊  GITHUB STATS                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> &nbsp;GitHub Analytics
+
+<div align="center">
+
+  <a href="https://github.com/ameynarwadkar">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ameynarwadkar&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ameynarwadkar">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameynarwadkar&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Streak stats -->
+  <a href="https://github.com/ameynarwadkar">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ameynarwadkar&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=666666" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/ameynarwadkar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameynarwadkar&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="95%" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🐍  SNAKE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <picture>
@@ -40,83 +242,196 @@ Currently building LLM prototypes as a Working Student at **NEC Laboratories Eur
   </picture>
 </div>
 
-## 🚀 What I'm Working On
+<br/>
 
-- **Retrieval-Augmented Generation & LLM Systems:** Building production-grade RAG and LLM workflows covering document ingestion, hybrid indexing, dense embeddings, lightweight reranking, schema-constrained generation, and evaluation pipelines using frameworks like Ragas.
-- **Efficient NLP & Transformer Inference:** Developing methods that make language models faster and more reliable, including adaptive early-exit inference, exit-aware verification, calibration, and decision stability analysis to reduce computational overhead.
-- **Robust Language Understanding:** Investigating how neural NLP models behave under noisy or imperfect inputs, focusing on character-level robustness, typo noise, and sentence representation degradation across varied corpora.
-- **Applied AI Systems:** Beyond research prototypes, I engineer complete, end-to-end AI applications: computer vision pipelines for sports analytics, multi-agent research tools, chatbots, and ML-backed automation pipelines.
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
----
+<br/>
 
-## 🛠️ Technical Stack
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🚀  WHAT I'M WORKING ON                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔗 RAG & LLM Systems
+Production-grade retrieval-augmented generation — hybrid indexing, dense embeddings, reranking, schema-constrained generation, and evaluation with Ragas.
+
+</td>
+<td width="50%">
+
+### ⚡ Efficient NLP
+Adaptive early-exit inference for transformers, exit-aware verification, calibration analysis, and decision stability — cutting compute without cutting accuracy.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ Robust Language Understanding
+Investigating NLP model behavior under noisy inputs — character-level robustness, typo noise, and embedding degradation analysis.
+
+</td>
+<td width="50%">
+
+### 🤖 Applied AI Systems
+End-to-end pipelines: computer vision for sports analytics, multi-agent research tools, conversational AI, and ML-backed automation.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 💻  FEATURED PROJECTS                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-48a8-9885-571571571e2d.png" width="30" /> &nbsp;Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<!-- Project Cards -->
+<a href="https://github.com/ameynarwadkar/finRAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=finRAG&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ameynarwadkar/adk-research-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=adk-research-agent&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ameynarwadkar/Eff-NLP-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Eff-NLP-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ameynarwadkar/Tennis-Analysis-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Tennis-Analysis-System&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ameynarwadkar/CharLM-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=CharLM-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ameynarwadkar/sentiment-trading-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=sentiment-trading-bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ameynarwadkar/Stable-Diff-Model">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Stable-Diff-Model&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ameynarwadkar/ML-algorithms-from-scratch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=ML-algorithms-from-scratch&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+</a>
+
 </div>
-<br />
 
-**Languages:** Python · SQL · R · JavaScript · HTML/CSS · Bash  
-**ML & Deep Learning:** PyTorch · scikit-learn · Hugging Face Transformers · Sentence-Transformers · OpenCV · NumPy · pandas · ONNX Runtime  
-**LLM / RAG / GenAI:** LangChain · LangGraph · Google ADK · LlamaIndex · FAISS · Qdrant · ChromaDB · Pydantic · FlashRank · Ollama  
-**Systems & Tools:** FastAPI · Docker · Kubernetes · Linux · Git · Streamlit · CUDA · Google Cloud  
+<br/>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-## 💻 Featured Projects
+<br/>
 
-| Project | Area | Description |
-|---|---|---|
-| [**EU Financial Regulation Hybrid RAG**](https://github.com/ameynarwadkar/finRAG) | LLM / RAG | Hybrid RAG over 382 parsed EU regulation articles. Features dual-index search with RRF fusion, ONNX-powered FlashRank reranking, and schema-constrained generation to ensure zero hallucinations. Achieved 100% Precision/Recall at k=5. |
-| [**Multi-Agent Research Assistant**](https://github.com/ameynarwadkar/adk-research-agent) | LLM Agents | A 7-agent system orchestrated via Google ADK that searches ArXiv, PubMed, and OpenAlex. It clusters papers, rigorously assesses evidence quality, and synthesizes publication-ready structured literature reviews. |
-| [**Early-Exit Inference for BERT**](https://github.com/ameynarwadkar/Eff-NLP-Project) | Efficient NLP | Implemented early-exit strategies for BERT using entropy, margin, and patience-based halting. Integrated micro self-verification and conducted latency & calibration analysis using layer-wise execution profiling. |
-| [**Character-Aware Encoder Under Typos**](https://github.com/ameynarwadkar/CharLM-Project) | NLP Robustness | Evaluated sentence representations under synthetic typo noise using CANINE and SBERT. Benchmarked embedding stability using cosine similarity and Retrieval@1 metrics. |
-| [**Tennis Analysis System**](https://github.com/ameynarwadkar/Tennis-Analysis-System) | Computer Vision | End-to-end tennis video analysis pipeline featuring YOLO-based player detection, CNN ball tracking, court keypoint estimation, real-time speed metrics, and a dynamic mini-court visualization. |
-| [**Text-to-Image Generation**](https://github.com/ameynarwadkar/Stable-Diff-Model) | Generative AI | Implemented a Stable Diffusion-based text-conditioned image generation model focusing on prompt adherence and visual fidelity. |
-| [**Food Ordering Chatbot**](https://ameynarwadkar.github.io/FoodChatbot/) | Conversational AI | Designed a conversational ordering interface prioritizing natural language interaction, robust intent recognition, and seamless user-flow handling. |
-| [**Sentiment Trading Bot**](https://github.com/ameynarwadkar/sentiment-trading-bot) | NLP / Finance | Engineered a news sentiment-driven trading pipeline integrating FinBERT for signal generation, alongside comprehensive backtesting and automated execution logic. |
-| [**ML Algorithms from Scratch**](https://github.com/ameynarwadkar/ML-algorithms-from-scratch) | ML Foundations | Implemented core machine learning algorithms (Linear/Logistic Regression, Decision Trees) entirely from mathematical first principles using Python and NumPy. |
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🎓  BACKGROUND                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" /> &nbsp;Background
 
-## 🎓 Background
+<table>
+<tr>
+<td>
 
-I am currently pursuing my **Master’s in Scientific Computing at Universität Heidelberg**, where I focus on advanced AI methods, efficient NLP, applied mathematics, and computer vision.
+🎓 **Master's in Scientific Computing** — Universität Heidelberg
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Advanced AI methods · Efficient NLP · Applied mathematics · Computer vision</sub>
 
-Before that, I completed my **Bachelor’s in Mathematics** at Fergusson College, Pune. That mathematical background strongly shapes how I approach machine learning: I care deeply about the underlying assumptions, optimization behavior, gradient flow, failure modes, and evaluation design behind every model.
+🎓 **Bachelor's in Mathematics** — Fergusson College, Pune
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Strong foundation in optimization, linear algebra, and probability theory</sub>
 
-I’m also working as a **Working Student in Software Development at NEC Laboratories Europe**, supporting applied AI/ML research through experimentation, data analysis, prototype implementation, and building reproducible research workflows for the team.
+💼 **Working Student** — NEC Laboratories Europe
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Applied AI/ML research · LLM prototyping · Reproducible research workflows</sub>
 
----
+</td>
+<td>
 
-## 💡 What I Care About
+> *My mathematical background shapes everything — I care about the underlying assumptions, optimization behavior, gradient flow, failure modes, and evaluation design behind every model I build.*
 
-I like building AI systems that are:
-- **Grounded:** outputs should be traceable, evaluable, and explainable where possible.
-- **Efficient:** good models should respect latency, compute, and deployment constraints, not just top-1 accuracy.
-- **Robust:** systems should be tested against edge cases and noisy data, moving beyond clean benchmark settings.
-- **Useful:** research ideas should eventually become robust, working, and reproducible software.
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📫 Let's Connect
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 💡  PHILOSOPHY                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-I'm always open to conversations around NLP, RAG systems, generative AI, efficient inference, and applied ML research.
+## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7b05d2-4e80-4f3c-bb35-1ee9c31c9f74.png" width="30" /> &nbsp;What I Care About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amey%20Narwadkar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amey-narwadkar-474332231/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://ameynarwadkar.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:amey.narwadkar1729@gmail.com)
+<div align="center">
+
+| | Principle | Why it matters |
+|:---:|:---|:---|
+| 🎯 | **Grounded** | Outputs should be traceable, evaluable, and explainable |
+| ⚡ | **Efficient** | Good models respect latency, compute, and deployment constraints |
+| 🛡️ | **Robust** | Systems must handle edge cases and noisy data, not just clean benchmarks |
+| 🔧 | **Useful** | Research ideas should become robust, working, reproducible software |
+
+</div>
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📫  CONNECT                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Let's+Connect!" alt="Let's Connect" />
+
+  <br/><br/>
+
+  <samp>I'm always open to conversations around NLP, RAG systems, generative AI, efficient inference, and applied ML research.</samp>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/amey-narwadkar-474332231/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amey%20Narwadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <a href="https://ameynarwadkar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:amey.narwadkar1729@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+
+</div>
+
+<br/><br/>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=120&section=footer" />

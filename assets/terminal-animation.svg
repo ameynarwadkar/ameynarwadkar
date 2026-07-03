@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 520">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+
+    /* ── base ── */
+    .terminal-bg   { fill: #0d1117; }
+    .title-bar     { fill: #161b22; }
+    .dot-red       { fill: #ff5f56; }
+    .dot-yellow    { fill: #ffbd2e; }
+    .dot-green     { fill: #27c93f; }
+    .title-text    { fill: #8b949e; font-family: 'JetBrains Mono', monospace; font-size: 12px; }
+    .tab-active    { fill: #0d1117; }
+    .tab-inactive  { fill: #161b22; }
+    .tab-text      { fill: #58a6ff; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+    .tab-text-dim  { fill: #484f58; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+
+    /* ── syntax colors ── */
+    .prompt     { fill: #27c93f; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+    .cmd        { fill: #e6edf3; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .flag       { fill: #ff7b72; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .string     { fill: #a5d6ff; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .comment    { fill: #8b949e; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-style: italic; }
+    .output     { fill: #7ee787; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .output-dim { fill: #58a6ff; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .warn       { fill: #d29922; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .keyword    { fill: #d2a8ff; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .number     { fill: #79c0ff; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .path       { fill: #ffa657; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .success    { fill: #3fb950; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+    .error-text { fill: #f85149; font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+    .cyan       { fill: #00d9ff; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+
+    /* ── cursor blink ── */
+    .cursor {
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0; }
+    }
+
+    /* ── line reveal animations ── */
+    .line { opacity: 0; }
+
+    .line-01 { animation: reveal 0.05s 0.4s  forwards; }
+    .line-02 { animation: reveal 0.05s 1.2s  forwards; }
+    .line-03 { animation: reveal 0.05s 1.8s  forwards; }
+    .line-04 { animation: reveal 0.05s 2.6s  forwards; }
+    .line-05 { animation: reveal 0.05s 3.0s  forwards; }
+    .line-06 { animation: reveal 0.05s 3.4s  forwards; }
+    .line-07 { animation: reveal 0.05s 3.8s  forwards; }
+    .line-08 { animation: reveal 0.05s 4.6s  forwards; }
+    .line-09 { animation: reveal 0.05s 5.4s  forwards; }
+    .line-10 { animation: reveal 0.05s 5.8s  forwards; }
+    .line-11 { animation: reveal 0.05s 6.2s  forwards; }
+    .line-12 { animation: reveal 0.05s 6.6s  forwards; }
+    .line-13 { animation: reveal 0.05s 7.0s  forwards; }
+    .line-14 { animation: reveal 0.05s 7.8s  forwards; }
+    .line-15 { animation: reveal 0.05s 8.2s  forwards; }
+    .line-16 { animation: reveal 0.05s 8.6s  forwards; }
+    .line-17 { animation: reveal 0.05s 9.4s  forwards; }
+    .line-18 { animation: reveal 0.05s 9.8s  forwards; }
+    .line-19 { animation: reveal 0.05s 10.4s forwards; }
+
+    @keyframes reveal {
+      to { opacity: 1; }
+    }
+
+    /* ── status-bar ── */
+    .status-bar      { fill: #161b22; }
+    .status-text     { fill: #8b949e; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+    .status-accent   { fill: #00d9ff; font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 700; }
+  </style>
+
+  <!-- ══ window chrome ══ -->
+  <rect class="terminal-bg" width="850" height="520" rx="12" ry="12"/>
+  <rect class="title-bar" width="850" height="40" rx="12" ry="12"/>
+  <rect class="title-bar" y="28" width="850" height="12"/>
+
+  <!-- traffic lights -->
+  <circle class="dot-red"    cx="24" cy="20" r="6"/>
+  <circle class="dot-yellow" cx="44" cy="20" r="6"/>
+  <circle class="dot-green"  cx="64" cy="20" r="6"/>
+
+  <!-- title -->
+  <text class="title-text" x="425" y="24" text-anchor="middle">amey@heidelberg — agent-workspace</text>
+
+  <!-- tabs -->
+  <rect class="tab-active"   x="82"  y="40" width="130" height="26" rx="6" ry="6"/>
+  <rect class="tab-inactive" x="218" y="40" width="110" height="26" rx="6" ry="6"/>
+  <rect class="tab-inactive" x="334" y="40" width="120" height="26" rx="6" ry="6"/>
+  <text class="tab-text"     x="147" y="57" text-anchor="middle">⚡ terminal</text>
+  <text class="tab-text-dim" x="273" y="57" text-anchor="middle">📄 agent.py</text>
+  <text class="tab-text-dim" x="394" y="57" text-anchor="middle">🔧 config.yml</text>
+
+  <!-- ══ terminal content ══ -->
+  <g transform="translate(24, 86)">
+
+    <!-- Line 1: comment -->
+    <g class="line line-01">
+      <text class="comment" y="0">## Building RAG pipeline for EU Financial Regulations</text>
+    </g>
+
+    <!-- Line 2: command -->
+    <g class="line line-02">
+      <text y="24">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="cmd">python </tspan>
+        <tspan class="path">finRAG/ingest.py</tspan>
+        <tspan class="flag"> --docs</tspan>
+        <tspan class="number"> 382</tspan>
+        <tspan class="flag"> --index</tspan>
+        <tspan class="string"> hybrid-rrf</tspan>
+      </text>
+    </g>
+
+    <!-- Line 3: output -->
+    <g class="line line-03">
+      <text class="output" y="48">  ✔ Indexed 382 articles → FAISS + BM25 dual-store</text>
+    </g>
+
+    <!-- Line 4: command -->
+    <g class="line line-04">
+      <text y="78">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="keyword">langgraph</tspan>
+        <tspan class="cmd"> serve </tspan>
+        <tspan class="path">adk-research-agent</tspan>
+        <tspan class="flag"> --agents</tspan>
+        <tspan class="number"> 7</tspan>
+      </text>
+    </g>
+
+    <!-- Line 5: output -->
+    <g class="line line-05">
+      <text class="output-dim" y="102">  → Orchestrator spawning: arxiv_search, pubmed_search,</text>
+    </g>
+    <g class="line line-06">
+      <text class="output-dim" y="120">    evidence_assessor, cluster_engine, synthesis_writer...</text>
+    </g>
+    <g class="line line-07">
+      <text class="success" y="138">  ✔ 7 agents online · ADK graph compiled · ready</text>
+    </g>
+
+    <!-- Line 8: command -->
+    <g class="line line-08">
+      <text y="168">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="cmd">python </tspan>
+        <tspan class="path">early_exit/bert_inference.py</tspan>
+        <tspan class="flag"> --strategy</tspan>
+        <tspan class="string"> entropy</tspan>
+        <tspan class="flag"> --threshold</tspan>
+        <tspan class="number"> 0.3</tspan>
+      </text>
+    </g>
+
+    <!-- Line 9: command output -->
+    <g class="line line-09">
+      <text y="192">
+        <tspan class="output">  ✔ Early-exit at layer 6/12</tspan>
+        <tspan class="warn"> · 47% latency reduction</tspan>
+        <tspan class="output"> · acc 96.2%</tspan>
+      </text>
+    </g>
+
+    <!-- Line 10: command -->
+    <g class="line line-10">
+      <text y="222">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="keyword">qdrant</tspan>
+        <tspan class="cmd"> upload </tspan>
+        <tspan class="flag">--collection</tspan>
+        <tspan class="string"> research-papers</tspan>
+        <tspan class="flag"> --dim</tspan>
+        <tspan class="number"> 768</tspan>
+      </text>
+    </g>
+
+    <!-- Line 11: output -->
+    <g class="line line-11">
+      <text class="output" y="246">  ✔ 12,847 embeddings stored · cosine similarity index built</text>
+    </g>
+
+    <!-- Line 12 -->
+    <g class="line line-12">
+      <text y="276">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="cmd">docker compose up </tspan>
+        <tspan class="flag">-d</tspan>
+        <tspan class="string"> fastapi qdrant redis</tspan>
+      </text>
+    </g>
+
+    <!-- Line 13 -->
+    <g class="line line-13">
+      <text class="output" y="300">  ✔ 3 containers running · API live at :8000/docs</text>
+    </g>
+
+    <!-- Line 14 -->
+    <g class="line line-14">
+      <text y="330">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="keyword">ragas</tspan>
+        <tspan class="cmd"> evaluate </tspan>
+        <tspan class="flag">--metrics</tspan>
+        <tspan class="string"> faithfulness,relevancy,precision</tspan>
+      </text>
+    </g>
+
+    <!-- Line 15: output -->
+    <g class="line line-15">
+      <text class="output" y="354">  ✔ Faithfulness: 0.97 · Relevancy: 0.94 · Precision@5: 1.00</text>
+    </g>
+
+    <!-- Line 16 -->
+    <g class="line line-16">
+      <text y="384">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="cmd">git push origin </tspan>
+        <tspan class="string">main</tspan>
+        <tspan class="comment">  # shipping to prod 🚀</tspan>
+      </text>
+    </g>
+
+    <!-- Line 17 -->
+    <g class="line line-17">
+      <text class="success" y="408">  ✔ All systems green. Pipeline deployed.</text>
+    </g>
+
+    <!-- Line 18: final prompt with cursor -->
+    <g class="line line-18">
+      <text y="438">
+        <tspan class="prompt">❯ </tspan>
+        <tspan class="cyan">What should we build next?</tspan>
+        <tspan class="cursor" fill="#00d9ff">▊</tspan>
+      </text>
+    </g>
+  </g>
+
+  <!-- ══ status bar ══ -->
+  <rect class="status-bar" y="498" width="850" height="22" rx="0" ry="0"/>
+  <rect class="terminal-bg" y="498" width="850" height="2"/>
+  <text class="status-accent" x="16"  y="514">● main</text>
+  <text class="status-text"   x="80"  y="514">│ Python 3.11</text>
+  <text class="status-text"   x="200" y="514">│ PyTorch 2.3</text>
+  <text class="status-text"   x="330" y="514">│ LangGraph 0.2</text>
+  <text class="status-text"   x="475" y="514">│ CUDA 12.4</text>
+  <text class="status-text"   x="580" y="514">│ UTF-8</text>
+  <text class="status-accent" x="760" y="514">Heidelberg 🇩🇪</text>
+</svg>
