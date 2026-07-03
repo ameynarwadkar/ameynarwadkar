@@ -15,22 +15,14 @@
 <div align="center">
 
   <a href="https://ameynarwadkar.github.io/">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" height="30" />
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amey-narwadkar-474332231">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:amey.narwadkar1729@gmail.com">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=gmail&logoColor=EA4335" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ameynarwadkar">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=github&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=flat-square&color=00d9ff&labelColor=000&label=" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=flat-square&color=00D9FF" />
 
 </div>
 
@@ -324,15 +316,11 @@ Making language models faster and cheaper with early-exit inference, calibration
 <div align="center">
 
   <a href="https://ameynarwadkar.github.io/">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" height="30" />
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amey-narwadkar-474332231/">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:amey.narwadkar1729@gmail.com">
-    <img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=gmail&logoColor=EA4335" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
