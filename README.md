@@ -218,10 +218,10 @@ Making language models faster and cheaper with early-exit inference, calibration
 <tr>
 <td width="50%" valign="top">
 
-### [EU Financial Regulation Hybrid RAG](https://github.com/ameynarwadkar/finRAG)
-Hybrid RAG over 382 parsed EU regulation articles. Features dual-index search with RRF fusion, ONNX-powered FlashRank reranking, and schema-constrained generation to ensure zero hallucinations.
+### [AnyRAG: Production-Ready Hybrid RAG System](https://github.com/ameynarwadkar/finRAG)
+AnyRAG is a production-grade, end-to-end Retrieval-Augmented Generation (RAG) system designed to let you upload, index, and query any document corpus. It implements a full two-stage retrieval funnel (recall-optimized hybrid search to precision-optimized cross-encoder reranking), multi-turn conversation history, semantic response caching, Langfuse observability tracing, and citation-verified LLM generation with output guardrails.
 
-`Python` · `FastAPI` · `Qdrant` · `ONNX`
+`Python` · `FastAPI` · `Qdrant` · `Langfuse`
 
 </td>
 <td width="50%" valign="top">
@@ -266,24 +266,6 @@ Evaluated sentence representations under synthetic typo noise using CANINE and S
 Engineered a news sentiment-driven trading pipeline integrating FinBERT for signal generation, alongside comprehensive backtesting and automated execution logic.
 
 `Python` · `FinBERT` · `pandas` · `Backtesting`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Text-to-Image Generation](https://github.com/ameynarwadkar/Stable-Diff-Model)
-Implemented a Stable Diffusion-based text-conditioned image generation model focusing on prompt adherence and visual fidelity.
-
-`PyTorch` · `Stable Diffusion` · `CUDA`
-
-</td>
-<td width="50%" valign="top">
-
-### [ML Algorithms from Scratch](https://github.com/ameynarwadkar/ML-algorithms-from-scratch)
-Implemented core machine learning algorithms (Linear/Logistic Regression, Decision Trees) entirely from mathematical first principles using Python and NumPy.
-
-`Python` · `NumPy` · `Mathematics`
 
 </td>
 </tr>
