@@ -214,47 +214,80 @@ Making language models faster and cheaper with early-exit inference, calibration
 
 ## 💻 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ameynarwadkar/finRAG" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=finRAG&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/adk-research-agent" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=adk-research-agent&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
+### 🚀 [EU Financial Regulation Hybrid RAG](https://github.com/ameynarwadkar/finRAG)
+Hybrid RAG over 382 parsed EU regulation articles. Features dual-index search with RRF fusion, ONNX-powered FlashRank reranking, and schema-constrained generation to ensure zero hallucinations.
 
-<br/><br/>
+`Python` · `FastAPI` · `Qdrant` · `ONNX`
 
-<a href="https://github.com/ameynarwadkar/Eff-NLP-Project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=Eff-NLP-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/Tennis-Analysis-System" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=Tennis-Analysis-System&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-<br/><br/>
+### 🤖 [Multi-Agent Research Assistant](https://github.com/ameynarwadkar/adk-research-agent)
+A 7-agent system orchestrated via Google ADK that searches ArXiv, PubMed, and OpenAlex. It clusters papers, rigorously assesses evidence quality, and synthesizes publication-ready literature reviews.
 
-<a href="https://github.com/ameynarwadkar/CharLM-Project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=CharLM-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/sentiment-trading-bot" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=sentiment-trading-bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
+`Python` · `LangGraph` · `OpenAI` · `Docling`
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ameynarwadkar/Stable-Diff-Model" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=Stable-Diff-Model&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/ML-algorithms-from-scratch" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=ML-algorithms-from-scratch&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
-</a>
+### ⚡ [Early-Exit Inference for BERT](https://github.com/ameynarwadkar/Eff-NLP-Project)
+Implemented early-exit strategies for BERT using entropy, margin, and patience-based halting. Integrated micro self-verification and conducted latency & calibration analysis.
 
-</div>
+`PyTorch` · `Hugging Face` · `BERT` · `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ [Tennis Analysis System](https://github.com/ameynarwadkar/Tennis-Analysis-System)
+End-to-end tennis video analysis pipeline featuring YOLO-based player detection, CNN ball tracking, court keypoint estimation, real-time speed metrics, and a dynamic mini-court visualization.
+
+`PyTorch` · `OpenCV` · `YOLO` · `CNN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Character-Aware Encoder Under Typos](https://github.com/ameynarwadkar/CharLM-Project)
+Evaluated sentence representations under synthetic typo noise using CANINE and SBERT. Benchmarked embedding stability using cosine similarity and Retrieval@1 metrics.
+
+`PyTorch` · `Hugging Face` · `SBERT` · `CANINE`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Sentiment Trading Bot](https://github.com/ameynarwadkar/sentiment-trading-bot)
+Engineered a news sentiment-driven trading pipeline integrating FinBERT for signal generation, alongside comprehensive backtesting and automated execution logic.
+
+`Python` · `FinBERT` · `pandas` · `Backtesting`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Text-to-Image Generation](https://github.com/ameynarwadkar/Stable-Diff-Model)
+Implemented a Stable Diffusion-based text-conditioned image generation model focusing on prompt adherence and visual fidelity.
+
+`PyTorch` · `Stable Diffusion` · `CUDA`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [ML Algorithms from Scratch](https://github.com/ameynarwadkar/ML-algorithms-from-scratch)
+Implemented core machine learning algorithms (Linear/Logistic Regression, Decision Trees) entirely from mathematical first principles using Python and NumPy.
+
+`Python` · `NumPy` · `Mathematics`
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
