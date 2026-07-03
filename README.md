@@ -173,45 +173,6 @@
 
 <br/>
 
-## What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### Multi-Agent Systems
-Building autonomous agent teams that collaborate to solve complex tasks, from research synthesis to automated workflows.
-
-</td>
-<td width="50%">
-
-### RAG & LLM Systems
-Production-ready retrieval pipelines with hybrid search, reranking, structured outputs, and rigorous evaluation.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Applied AI Systems
-End-to-end ML applications: computer vision, conversational AI, sentiment analysis, and automation pipelines.
-
-</td>
-<td width="50%">
-
-### Efficient NLP
-Making language models faster and cheaper with early-exit inference, calibration, and compute-aware optimization.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<br/>
-
 ## Featured Projects
 
 <table width="100%">
@@ -248,6 +209,45 @@ Implemented early-exit strategies for BERT using entropy, margin, and patience-b
 End-to-end tennis video analysis pipeline featuring YOLO-based player detection, CNN ball tracking, court keypoint estimation, real-time speed metrics, and a dynamic mini-court visualization.
 
 `PyTorch` · `OpenCV` · `YOLO` · `CNN`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+## What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### Multi-Agent Systems
+Building autonomous agent teams that collaborate to solve complex tasks, from research synthesis to automated workflows.
+
+</td>
+<td width="50%">
+
+### RAG & LLM Systems
+Production-ready retrieval pipelines with hybrid search, reranking, structured outputs, and rigorous evaluation.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Applied AI Systems
+End-to-end ML applications: computer vision, conversational AI, sentiment analysis, and automation pipelines.
+
+</td>
+<td width="50%">
+
+### Efficient NLP
+Making language models faster and cheaper with early-exit inference, calibration, and compute-aware optimization.
 
 </td>
 </tr>
