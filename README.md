@@ -219,7 +219,7 @@ Making language models faster and cheaper with early-exit inference, calibration
 <td width="50%" valign="top">
 
 ### [AnyRAG: Production-Ready Hybrid RAG System](https://github.com/ameynarwadkar/finRAG)
-AnyRAG is a production-grade, end-to-end Retrieval-Augmented Generation (RAG) system designed to let you upload, index, and query any document corpus. It implements a full two-stage retrieval funnel (recall-optimized hybrid search to precision-optimized cross-encoder reranking), multi-turn conversation history, semantic response caching, Langfuse observability tracing, and citation-verified LLM generation with output guardrails.
+Production-grade, end-to-end RAG system featuring a two-stage retrieval funnel (hybrid search and cross-encoder reranking), conversation history rewriting, semantic caching, and verifier-backed citation constraints.
 
 `Python` · `FastAPI` · `Qdrant` · `Langfuse`
 
@@ -248,24 +248,6 @@ Implemented early-exit strategies for BERT using entropy, margin, and patience-b
 End-to-end tennis video analysis pipeline featuring YOLO-based player detection, CNN ball tracking, court keypoint estimation, real-time speed metrics, and a dynamic mini-court visualization.
 
 `PyTorch` · `OpenCV` · `YOLO` · `CNN`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Character-Aware Encoder Under Typos](https://github.com/ameynarwadkar/CharLM-Project)
-Evaluated sentence representations under synthetic typo noise using CANINE and SBERT. Benchmarked embedding stability using cosine similarity and Retrieval@1 metrics.
-
-`PyTorch` · `Hugging Face` · `SBERT` · `CANINE`
-
-</td>
-<td width="50%" valign="top">
-
-### [Sentiment Trading Bot](https://github.com/ameynarwadkar/sentiment-trading-bot)
-Engineered a news sentiment-driven trading pipeline integrating FinBERT for signal generation, alongside comprehensive backtesting and automated execution logic.
-
-`Python` · `FinBERT` · `pandas` · `Backtesting`
 
 </td>
 </tr>
