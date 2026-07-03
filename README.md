@@ -1,4 +1,17 @@
-# Hi, I'm Amey Narwadkar 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Amey%20Narwadkar&fontSize=70&desc=AI%20Engineer%20%7C%20Applied%20ML%20%7C%20NLP&descSize=25&fontAlignY=35&animation=twinkling" alt="Header" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ameynarwadkar">
+    <img src="https://github-readme-stats.vercel.app/api?username=ameynarwadkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="192" />
+  </a>
+  <a href="https://github.com/ameynarwadkar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameynarwadkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192" />
+  </a>
+</div>
+
+
 
 **M.S. Scientific Computing @ Universität Heidelberg**  
 **LLM Systems · Agentic Workflows · Efficient NLP · Applied ML**
@@ -19,6 +32,14 @@ Currently building LLM prototypes as a Working Student at **NEC Laboratories Eur
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ameynarwadkar/ameynarwadkar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ameynarwadkar/ameynarwadkar/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ameynarwadkar/ameynarwadkar/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 🚀 What I'm Working On
 
 - **Retrieval-Augmented Generation & LLM Systems:** Building production-grade RAG and LLM workflows covering document ingestion, hybrid indexing, dense embeddings, lightweight reranking, schema-constrained generation, and evaluation pipelines using frameworks like Ragas.
@@ -29,6 +50,25 @@ Currently building LLM prototypes as a Working Student at **NEC Laboratories Eur
 ---
 
 ## 🛠️ Technical Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+<br />
 
 **Languages:** Python · SQL · R · JavaScript · HTML/CSS · Bash  
 **ML & Deep Learning:** PyTorch · scikit-learn · Hugging Face Transformers · Sentence-Transformers · OpenCV · NumPy · pandas · ONNX Runtime  
