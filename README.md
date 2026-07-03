@@ -217,41 +217,41 @@ Making language models faster and cheaper with early-exit inference, calibration
 <div align="center">
 
 <a href="https://github.com/ameynarwadkar/finRAG" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=finRAG&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=finRAG&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ameynarwadkar/adk-research-agent" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=adk-research-agent&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=adk-research-agent&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ameynarwadkar/Eff-NLP-Project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Eff-NLP-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=Eff-NLP-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ameynarwadkar/Tennis-Analysis-System" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Tennis-Analysis-System&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=Tennis-Analysis-System&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ameynarwadkar/CharLM-Project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=CharLM-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=CharLM-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ameynarwadkar/sentiment-trading-bot" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=sentiment-trading-bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=sentiment-trading-bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ameynarwadkar/Stable-Diff-Model" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Stable-Diff-Model&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=Stable-Diff-Model&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ameynarwadkar/ML-algorithms-from-scratch" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=ML-algorithms-from-scratch&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=ameynarwadkar&repo=ML-algorithms-from-scratch&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 </div>
@@ -259,6 +259,8 @@ Making language models faster and cheaper with early-exit inference, calibration
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> &nbsp;Contributions
 
 <div align="center">
   <picture>
