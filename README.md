@@ -22,6 +22,10 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
   &nbsp;
+  <a href="https://medium.com/@amey.cmyo">
+    <img src="https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=flat-square&color=00D9FF" />
 
 </div>
@@ -34,7 +38,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
+<img align="right" src="./assets/lofi-coding.png" width="380" />
 
 ```yaml
 name: Amey Narwadkar
@@ -321,6 +325,10 @@ Making language models faster and cheaper with early-exit inference, calibration
   &nbsp;
   <a href="https://www.linkedin.com/in/amey-narwadkar-474332231/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@amey.cmyo">
+    <img src="https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=white" />
   </a>
 
 </div>
