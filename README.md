@@ -1,6 +1,7 @@
 <div align="center">
 
-  <a href="https://github.com/ameynarwadkar">
+  <!-- Typing animation -->
+  <a href="https://github.com/ameynarwadkar" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hey%2C+I'm+Amey+%F0%9F%91%8B;AI+Engineer+%E2%80%A2+ML+Researcher" alt="Typing SVG" />
   </a>
 
@@ -14,15 +15,15 @@
 
 <div align="center">
 
-  <a href="https://ameynarwadkar.github.io/">
+  <a href="https://ameynarwadkar.github.io/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00D9FF?logo=globe&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/amey-narwadkar-474332231">
+  <a href="https://www.linkedin.com/in/amey-narwadkar-474332231" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
   &nbsp;
-  <a href="https://medium.com/@amey.cmyo">
+  <a href="https://medium.com/@amey.cmyo" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=white" />
   </a>
   &nbsp;
@@ -194,13 +195,13 @@
 <tr>
 <td width="50%">
 
-### 🤖 Multi-Agent Systems
+### Multi-Agent Systems
 Building autonomous agent teams that collaborate to solve complex tasks, from research synthesis to automated workflows.
 
 </td>
 <td width="50%">
 
-### 🔗 RAG & LLM Systems
+### RAG & LLM Systems
 Production-ready retrieval pipelines with hybrid search, reranking, structured outputs, and rigorous evaluation.
 
 </td>
@@ -208,13 +209,13 @@ Production-ready retrieval pipelines with hybrid search, reranking, structured o
 <tr>
 <td width="50%">
 
-### 🧠 Applied AI Systems
+### Applied AI Systems
 End-to-end ML applications: computer vision, conversational AI, sentiment analysis, and automation pipelines.
 
 </td>
 <td width="50%">
 
-### ⚡ Efficient NLP
+### Efficient NLP
 Making language models faster and cheaper with early-exit inference, calibration, and compute-aware optimization.
 
 </td>
@@ -231,41 +232,41 @@ Making language models faster and cheaper with early-exit inference, calibration
 
 <div align="center">
 
-<a href="https://github.com/ameynarwadkar/finRAG">
+<a href="https://github.com/ameynarwadkar/finRAG" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=finRAG&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/adk-research-agent">
+<a href="https://github.com/ameynarwadkar/adk-research-agent" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=adk-research-agent&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/ameynarwadkar/Eff-NLP-Project">
+<a href="https://github.com/ameynarwadkar/Eff-NLP-Project" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Eff-NLP-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/Tennis-Analysis-System">
+<a href="https://github.com/ameynarwadkar/Tennis-Analysis-System" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Tennis-Analysis-System&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/ameynarwadkar/CharLM-Project">
+<a href="https://github.com/ameynarwadkar/CharLM-Project" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=CharLM-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/sentiment-trading-bot">
+<a href="https://github.com/ameynarwadkar/sentiment-trading-bot" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=sentiment-trading-bot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/ameynarwadkar/Stable-Diff-Model">
+<a href="https://github.com/ameynarwadkar/Stable-Diff-Model" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=Stable-Diff-Model&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ameynarwadkar/ML-algorithms-from-scratch">
+<a href="https://github.com/ameynarwadkar/ML-algorithms-from-scratch" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ameynarwadkar&repo=ML-algorithms-from-scratch&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" />
 </a>
 
@@ -276,52 +277,6 @@ Making language models faster and cheaper with early-exit inference, calibration
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" /> &nbsp;Background
-
-<table>
-<tr>
-<td>
-
-🎓 **M.S. Scientific Computing** at Universitat Heidelberg
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>AI methods, efficient NLP, applied math, computer vision</sub>
-
-🎓 **B.Sc. Mathematics** at Fergusson College, Pune
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Optimization, linear algebra, probability theory</sub>
-
-💼 **Working Student** at NEC Laboratories Europe
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;<sub>Applied AI/ML research, LLM prototyping, reproducible workflows</sub>
-
-</td>
-<td>
-
-> *Math shapes how I think about ML. I care about assumptions, optimization, gradient flow, failure modes, and evaluation design behind every model.*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c7b05d2-4e80-4f3c-bb35-1ee9c31c9f74.png" width="30" /> &nbsp;What I Care About
-
-<div align="center">
-
-| | Principle | |
-|:---:|:---|:---|
-| 🎯 | **Grounded** | Outputs should be traceable and explainable |
-| ⚡ | **Efficient** | Respect latency, compute, and deployment constraints |
-| 🛡️ | **Robust** | Handle edge cases and noisy data, not just clean benchmarks |
-| 🔧 | **Useful** | Research should become working, reproducible software |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<br/>
-
 
 </div>
 
