@@ -37,7 +37,7 @@
 
 <br/>
 
-##  &nbsp;About Me
+## 👤 About Me
 
 <img align="right" src="./assets/lofi-coding.png" width="480" />
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> &nbsp;Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -173,7 +173,7 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;What I'm Working On
+## 🚀 What I'm Working On
 
 <table>
 <tr>
@@ -212,7 +212,7 @@ Making language models faster and cheaper with early-exit inference, calibration
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-48a8-9885-571571571e2d.png" width="30" /> &nbsp;Featured Projects
+## 💻 Featured Projects
 
 <div align="center">
 
@@ -260,7 +260,7 @@ Making language models faster and cheaper with early-exit inference, calibration
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> &nbsp;Contributions
+## 📊 Contributions
 
 <div align="center">
   <picture>
