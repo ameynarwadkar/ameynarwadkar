@@ -36,23 +36,28 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;About Me
+##  &nbsp;About Me
 
-<img align="right" src="./assets/lofi-coding.png" width="380" />
+<img align="right" src="./assets/lofi-coding.png" width="480" />
 
-```yaml
-name: Amey Narwadkar
-location: Heidelberg, Germany
-education:
-  masters: Scientific Computing @ Universitat Heidelberg
-  bachelors: Mathematics @ Fergusson College, Pune
-current_role: Working Student @ NEC Laboratories Europe
-focus_areas:
-  - Multi-Agent Systems
-  - RAG & LLM Systems
-  - Applied AI Systems
-  - Efficient NLP
-status: Open to AI/ML roles
+
+```json
+{
+  "name": "Amey Narwadkar",
+  "location": "Heidelberg, Germany",
+  "education": {
+    "masters": "Scientific Computing @ Universitat Heidelberg",
+    "bachelors": "Mathematics @ Fergusson College, Pune"
+  },
+  "current_role": "Working Student @ NEC Laboratories Europe",
+  "focus_areas": [
+    "Multi-Agent Systems",
+    "RAG & LLM Systems",
+    "Applied AI Systems",
+    "Efficient NLP"
+  ],
+  "status": "Open to AI/ML roles"
+}
 ```
 
 > *I build ML systems at the intersection of math, research, and engineering. I care about making models robust, efficient, and actually useful in production.*
@@ -317,20 +322,7 @@ Making language models faster and cheaper with early-exit inference, calibration
 
 <br/>
 
-<div align="center">
-
-  <a href="https://ameynarwadkar.github.io/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00D9FF?logo=globe&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amey-narwadkar-474332231/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@amey.cmyo">
-    <img src="https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=white" />
-  </a>
 
 </div>
 
-<br/><br/>
+
