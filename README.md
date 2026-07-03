@@ -15,11 +15,11 @@
 <div align="center">
 
   <a href="https://ameynarwadkar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00D9FF?logo=globe&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amey-narwadkar-474332231">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=flat-square&color=00D9FF" />
@@ -316,11 +316,11 @@ Making language models faster and cheaper with early-exit inference, calibration
 <div align="center">
 
   <a href="https://ameynarwadkar.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00D9FF?logo=globe&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amey-narwadkar-474332231/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
 
 </div>
