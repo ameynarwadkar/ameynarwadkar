@@ -2,7 +2,7 @@
 
   <!-- Typing animation -->
   <a href="https://github.com/ameynarwadkar" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hey%2C+I'm+Amey+%F0%9F%91%8B;AI+Engineer+%E2%80%A2+ML+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hey%2C+I'm+Amey;AI+Engineer+%E2%80%A2+ML+Researcher" alt="Typing SVG" />
   </a>
 
 </div>
@@ -37,7 +37,7 @@
 
 <br/>
 
-## 👤 About Me
+## About Me
 
 <img align="right" src="./assets/lofi-coding.png" width="480" />
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -173,7 +173,7 @@
 
 <br/>
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 <table>
 <tr>
@@ -212,13 +212,13 @@ Making language models faster and cheaper with early-exit inference, calibration
 
 <br/>
 
-## 💻 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [EU Financial Regulation Hybrid RAG](https://github.com/ameynarwadkar/finRAG)
+### [EU Financial Regulation Hybrid RAG](https://github.com/ameynarwadkar/finRAG)
 Hybrid RAG over 382 parsed EU regulation articles. Features dual-index search with RRF fusion, ONNX-powered FlashRank reranking, and schema-constrained generation to ensure zero hallucinations.
 
 `Python` · `FastAPI` · `Qdrant` · `ONNX`
@@ -226,7 +226,7 @@ Hybrid RAG over 382 parsed EU regulation articles. Features dual-index search wi
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Multi-Agent Research Assistant](https://github.com/ameynarwadkar/adk-research-agent)
+### [Multi-Agent Research Assistant](https://github.com/ameynarwadkar/adk-research-agent)
 A 7-agent system orchestrated via Google ADK that searches ArXiv, PubMed, and OpenAlex. It clusters papers, rigorously assesses evidence quality, and synthesizes publication-ready literature reviews.
 
 `Python` · `LangGraph` · `OpenAI` · `Docling`
@@ -236,7 +236,7 @@ A 7-agent system orchestrated via Google ADK that searches ArXiv, PubMed, and Op
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Early-Exit Inference for BERT](https://github.com/ameynarwadkar/Eff-NLP-Project)
+### [Early-Exit Inference for BERT](https://github.com/ameynarwadkar/Eff-NLP-Project)
 Implemented early-exit strategies for BERT using entropy, margin, and patience-based halting. Integrated micro self-verification and conducted latency & calibration analysis.
 
 `PyTorch` · `Hugging Face` · `BERT` · `NLP`
@@ -244,7 +244,7 @@ Implemented early-exit strategies for BERT using entropy, margin, and patience-b
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [Tennis Analysis System](https://github.com/ameynarwadkar/Tennis-Analysis-System)
+### [Tennis Analysis System](https://github.com/ameynarwadkar/Tennis-Analysis-System)
 End-to-end tennis video analysis pipeline featuring YOLO-based player detection, CNN ball tracking, court keypoint estimation, real-time speed metrics, and a dynamic mini-court visualization.
 
 `PyTorch` · `OpenCV` · `YOLO` · `CNN`
@@ -254,7 +254,7 @@ End-to-end tennis video analysis pipeline featuring YOLO-based player detection,
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Character-Aware Encoder Under Typos](https://github.com/ameynarwadkar/CharLM-Project)
+### [Character-Aware Encoder Under Typos](https://github.com/ameynarwadkar/CharLM-Project)
 Evaluated sentence representations under synthetic typo noise using CANINE and SBERT. Benchmarked embedding stability using cosine similarity and Retrieval@1 metrics.
 
 `PyTorch` · `Hugging Face` · `SBERT` · `CANINE`
@@ -262,7 +262,7 @@ Evaluated sentence representations under synthetic typo noise using CANINE and S
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Sentiment Trading Bot](https://github.com/ameynarwadkar/sentiment-trading-bot)
+### [Sentiment Trading Bot](https://github.com/ameynarwadkar/sentiment-trading-bot)
 Engineered a news sentiment-driven trading pipeline integrating FinBERT for signal generation, alongside comprehensive backtesting and automated execution logic.
 
 `Python` · `FinBERT` · `pandas` · `Backtesting`
@@ -272,7 +272,7 @@ Engineered a news sentiment-driven trading pipeline integrating FinBERT for sign
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [Text-to-Image Generation](https://github.com/ameynarwadkar/Stable-Diff-Model)
+### [Text-to-Image Generation](https://github.com/ameynarwadkar/Stable-Diff-Model)
 Implemented a Stable Diffusion-based text-conditioned image generation model focusing on prompt adherence and visual fidelity.
 
 `PyTorch` · `Stable Diffusion` · `CUDA`
@@ -280,7 +280,7 @@ Implemented a Stable Diffusion-based text-conditioned image generation model foc
 </td>
 <td width="50%" valign="top">
 
-### 🧮 [ML Algorithms from Scratch](https://github.com/ameynarwadkar/ML-algorithms-from-scratch)
+### [ML Algorithms from Scratch](https://github.com/ameynarwadkar/ML-algorithms-from-scratch)
 Implemented core machine learning algorithms (Linear/Logistic Regression, Decision Trees) entirely from mathematical first principles using Python and NumPy.
 
 `Python` · `NumPy` · `Mathematics`
@@ -293,7 +293,7 @@ Implemented core machine learning algorithms (Linear/Logistic Regression, Decisi
 
 <br/>
 
-## 📊 Contributions
+## Contributions
 
 <div align="center">
   <picture>
