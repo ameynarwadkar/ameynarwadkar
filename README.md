@@ -13,26 +13,6 @@
 
 <br/>
 
-<div align="center">
-
-  <a href="https://ameynarwadkar.github.io/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-00D9FF?logo=globe&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amey-narwadkar-474332231" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@amey.cmyo" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=flat-square&color=00D9FF" />
-
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
@@ -268,3 +248,8 @@ Making language models faster and cheaper with early-exit inference, calibration
 </div>
 
 
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=ameynarwadkar&style=flat-square&color=00D9FF" />
+
+</div>
