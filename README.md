@@ -1,15 +1,11 @@
 <div align="center">
 
-  <!-- Typing animation -->
-  <a href="https://github.com/ameynarwadkar" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hey%2C+I'm+Amey;AI+Engineer+%E2%80%A2+ML+Researcher" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/ameynarwadkar" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hey%2C+I'm+Amey;AI+/+ML+Engineer" alt="Typing SVG" />
+</a>
 
 </div>
 
-<div align="center">
-  <img src="./assets/terminal-animation.svg" width="820" alt="AI Engineering Terminal" />
-</div>
 
 <br/>
 
@@ -19,35 +15,25 @@
 
 ## About Me
 
-<img align="right" src="./assets/lofi-coding.png" width="480" />
+<img align="right" src="./assets/lofi-coding.png" width="420" />
 
+I'm **Amey Narwadkar**, a Master's student in Scientific Computing at **Heidelberg University** and a Working Student at **NEC Laboratories Europe**.
 
-```json
-{
-  "name": "Amey Narwadkar",
-  "location": "Heidelberg, Germany",
-  "education": {
-    "masters": "Scientific Computing @ Universitat Heidelberg",
-    "bachelors": "Mathematics @ Fergusson College, Pune"
-  },
-  "current_role": "Working Student @ NEC Laboratories Europe",
-  "focus_areas": [
-    "Multi-Agent Systems",
-    "RAG & LLM Systems",
-    "Applied AI Systems",
-    "Efficient NLP"
-  ],
-  "status": "Open to AI/ML roles"
-}
-```
+I work on **machine learning systems**, with a particular interest in:
 
-> *I build ML systems at the intersection of math, research, and engineering. I care about making models robust, efficient, and actually useful in production.*
+- LLM & RAG systems
+- Multi-agent AI
+- Knowledge graphs
+- Efficient NLP
+- Applied machine learning
+
+My background in mathematics shapes how I approach ML: understand the problem deeply, build the simplest system that works, and evaluate it properly.
+
+Currently exploring opportunities in **AI / ML Engineering and Applied AI**.
 
 <br clear="both"/>
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
 <br/>
 
 ## Tech Arsenal
