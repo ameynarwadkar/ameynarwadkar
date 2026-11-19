@@ -139,52 +139,7 @@ Currently exploring opportunities in **AI / ML Engineering and Applied AI**.
 
 <br/>
 
-## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### [AnyRAG: Production-Ready Hybrid RAG System](https://github.com/ameynarwadkar/finRAG)
-Production-grade, end-to-end RAG system featuring a two-stage retrieval funnel (hybrid search and cross-encoder reranking), conversation history rewriting, semantic caching, and verifier-backed citation constraints.
-
-`Python` · `FastAPI` · `Qdrant` · `Langfuse`
-
-</td>
-<td width="50%" valign="top">
-
-### [Multi-Agent Research Assistant](https://github.com/ameynarwadkar/adk-research-agent)
-A 7-agent system orchestrated via Google ADK that searches ArXiv, PubMed, and OpenAlex. It clusters papers, rigorously assesses evidence quality, and synthesizes publication-ready literature reviews.
-
-`Python` · `LangGraph` · `OpenAI` · `Docling`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Early-Exit Inference for BERT](https://github.com/ameynarwadkar/Eff-NLP-Project)
-Implemented early-exit strategies for BERT using entropy, margin, and patience-based halting. Integrated micro self-verification and conducted latency & calibration analysis.
-
-`PyTorch` · `Hugging Face` · `BERT` · `NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### [Tennis Analysis System](https://github.com/ameynarwadkar/Tennis-Analysis-System)
-End-to-end tennis video analysis pipeline featuring YOLO-based player detection, CNN ball tracking, court keypoint estimation, real-time speed metrics, and a dynamic mini-court visualization.
-
-`PyTorch` · `OpenCV` · `YOLO` · `CNN`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<br/>
 
 ## What I'm Working On
 
