@@ -1,18 +1,3 @@
-<div align="center">
-
-<a href="https://github.com/ameynarwadkar" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hey%2C+I'm+Amey;AI+/+ML+Engineer" alt="Typing SVG" />
-</a>
-
-</div>
-
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<br/>
-
 ## About Me
 
 <img align="right" src="./assets/lofi-coding.png" width="420" />
